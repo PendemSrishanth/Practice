@@ -5,14 +5,5 @@ int main() {
     printf("It prints a simple message to the console.\n");
     printf("C is a powerful programming language.\n");
     printf("Prashanth Pendem\n");
-    printf("This is a simple C program.\n");
-    printf("Srishanth Hello");
-    printf("Welcome to the world of C programming!\n");
-    // Additional message
-    printf("Enjoy coding in C!\n");
-    printf("This is a simple C program.\n");
-    printf("This is a simple C program.\n");
-    printf("This is a simple C program.\n");
-    printf("This is a simple C program.\n");
     return 0;
 }
