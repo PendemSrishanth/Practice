@@ -10,5 +10,7 @@ int main() {
     printf("Welcome to the world of C programming!\n");
     // Additional message
     printf("Enjoy coding in C!\n");
+    printf("This is a simple C program.\n");
+    printf("This is a simple C program.\n");
     return 0;
 }
