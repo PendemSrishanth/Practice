@@ -8,5 +8,7 @@ int main() {
     printf("This is a simple C program.\n");
     printf("Srishanth Hello");
     printf("Welcome to the world of C programming!\n");
+    // Additional message
+    printf("Enjoy coding in C!\n");
     return 0;
 }
